@@ -1,4 +1,5 @@
 <div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vittor-duarte/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vittor_vi@hotmail.com?subject=Hello%20Vittor,%20From%20Github)
