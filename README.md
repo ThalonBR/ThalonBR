@@ -19,7 +19,7 @@
 
 ## 💻 My Tech Stack:
 
-[![ReactJS,Node.js, JavaScript, TypeScript, Firebase, GCP, Angular](https://skillicons.dev/icons?i=react,nodejs,js,ts,firebase,gcp,angular)](https://skillicons.dev)
+[![ReactJS,Node.js, Html, CSS, JavaScript, TypeScript, Firebase, GCP, Angular](https://skillicons.dev/icons?i=react,nodejs,html,css,js,ts,firebase,gcp,angular)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
