@@ -6,7 +6,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Grupo Safira](https://www.linkedin.com/company/gruposafira)
+- 🔭 I’m currently working at [FCamara](https://fcamara.com)
 - 🌱 I’m passionate about [ReactJS](https://react.dev), [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) and [Firebase](https://firebase.google.com).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I play video games, watch science fiction series and films!
